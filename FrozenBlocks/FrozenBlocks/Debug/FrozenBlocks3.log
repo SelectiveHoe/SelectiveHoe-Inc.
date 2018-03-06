@@ -1,0 +1,62 @@
+﻿  Source.cpp
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\include.h(18): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\include.h(64): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\player.h(87): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\menu.h(26): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\menu.h(62): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\item.h(216): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\item.h(232): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\block.h(175): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\block.h(210): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\block.h(217): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\block.h(235): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\block.h(253): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\block.h(618): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\block.h(667): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\block.h(208): warning C4101: menuid: неиспользованная локальная переменная
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\level.h(83): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\inventory.h(1116): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\inventory.h(1315): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\inventory.h(1514): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\inventory.h(1766): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\inventory.h(1891): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\account.h(146): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\account.h(149): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\account.h(155): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\account.h(158): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\accountdatabase.h(16): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\accountdatabase.h(223): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\accountdatabase.h(246): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(25): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(45): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(199): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(207): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(261): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(262): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(647): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(659): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(802): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(936): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1070): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1074): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1083): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1087): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1096): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1100): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1109): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1131): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1138): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1198): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1202): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1211): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1215): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1224): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1228): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1237): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1259): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\source.cpp(175): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\source.cpp(190): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\menu.h(87): warning C4715: Menu::ActivateMenu: значение возвращается не при всех путях выполнения
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(1135): warning C4715: GameScripts::GenerateRandomItem: значение возвращается не при всех путях выполнения
+c:\users\selectivehoe\desktop\frozenblocks0.3.3\frozenblocks3\gamescripts.h(166): warning C4715: GameScripts::GameManu: значение возвращается не при всех путях выполнения
+  FrozenBlocks3.vcxproj -> C:\Users\SelectiveHoe\Desktop\FrozenBlocks0.3.3\Debug\FrozenBlocks3.exe

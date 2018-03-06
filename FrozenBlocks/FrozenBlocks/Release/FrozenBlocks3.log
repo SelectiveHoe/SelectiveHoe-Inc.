@@ -1,0 +1,49 @@
+﻿  Source.cpp
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\include.h(18): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\include.h(64): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Menu.h(26): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Menu.h(62): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Block.h(145): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Block.h(180): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Block.h(187): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Block.h(205): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Block.h(223): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Block.h(279): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Level.h(83): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Inventory.h(155): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Inventory.h(171): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Inventory.h(1931): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Account.h(129): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Account.h(132): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Account.h(138): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\Account.h(141): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\AccountDataBase.h(16): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\AccountDataBase.h(141): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\AccountDataBase.h(164): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(25): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(45): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(244): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(245): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(374): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(377): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(383): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(468): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(540): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(600): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(606): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(610): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(619): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(623): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(632): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(636): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(645): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\GameScripts.h(667): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Source.cpp(179): warning C4018: <: несоответствие типов со знаком и без знака
+Source.cpp(194): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\menu.h(87): warning C4715: Menu::ActivateMenu: значение возвращается не при всех путях выполнения
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\gamescripts.h(671): warning C4715: GameScripts::GenerateRandomItem: значение возвращается не при всех путях выполнения
+c:\users\selectivehoe\desktop\frozenblocks0.3.1\frozenblocks3\gamescripts.h(166): warning C4715: GameScripts::GameManu: значение возвращается не при всех путях выполнения
+  All 456 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  FrozenBlocks3.vcxproj -> C:\Users\SelectiveHoe\Desktop\FrozenBlocks0.3.1\Release\FrozenBlocks3.exe
